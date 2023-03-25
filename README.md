@@ -1,4 +1,11 @@
- My replication of a tutorial showing a real estate [portal that calls real estate data from Bayut API on real estate in Dubai
+ # Real Estate  Finder in  Dubai
+ 
+ My replication of a tutorial showing a real estate portal that calls real estate data from Bayut API on real estate in Dubai
+ 
+ ## FInd the link here
+ [Real Estate](https://dubai-real-estate.netlify.app/)
+ 
+##Screenshots
 ![preview 3](https://user-images.githubusercontent.com/50581464/222453882-dd25b09b-cce7-46d2-895f-2f6c1f61920d.png)
 ![preview 4](https://user-images.githubusercontent.com/50581464/222453895-e02f1477-6d3e-4e62-99a6-e5710f4eb887.png)
 ![preview 1](https://user-images.githubusercontent.com/50581464/222453901-b2f5e031-526e-4699-9a9d-10343fd9f9ab.png)
